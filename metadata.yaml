@@ -1,0 +1,33 @@
+_repo: Zalaca-n-El-Aventurero--13--Historia-de-las-buenas-andanzas-y-fortunas-de-Mart-n-Zalaca-n-el-__13264
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baroja, Pío
+    aliases:
+    - Baroja, Pio
+    - Nessi, Pío Baroja y
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pío_Baroja
+    - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+description: ''
+gutenberg_issued: '2004-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13264'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Carlist War, 1873-1876 -- Fiction'
+- !lcc 'PQ'
+title: "Zalacaín El Aventurero\r\n(Historia de las buenas andanzas y fortunas de Martín\
+  \ Zalacaín el Aventurero)"
+url: http://www.gutenberg.org/ebooks/13264
